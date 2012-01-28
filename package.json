@@ -1,0 +1,11 @@
+{
+  "name"          : "node-mygengo",
+  "description"   : "Library for interacting with the myGengo API.",
+  "version"       : "0.0.1",
+  "author"        : "Mike Holly",
+  "homepage"      : "http://github.com/mikejholly/node-mygengo",
+  "repository"    : {"type" : "git", "url" : "http://github.com/mikejholly/node-mygengo.git"},
+  "dependencies"  : [],
+  "main"          : "./lib/mygengo",
+  "keywords"      : ["i18n", "l10n"]
+}
